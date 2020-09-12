@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class Main {
     public static int totalOfTheMainDiagonal(int[][] arr) {
